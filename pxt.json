@@ -1,0 +1,53 @@
+{
+    "name": "Critter Clash",
+    "description": "A Bloons inspired tower defense. Nature has become not-so-beautiful, and all the little critters must band together to protect their home from predators! Squirrels, rats, beavers, and even the small jerboa are all ready to fight.",
+    "dependencies": {
+        "device": "*",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.6.0",
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.2.2",
+        "arcade-piano-roll": "github:microsoft/arcade-piano-roll#v0.0.1",
+        "browser-events": "*",
+        "ScriptScript Round (font)": "pub:61650-92538-68758-81403",
+        "ScriptScript Bold (font)": "pub:80125-99803-81195-44201",
+        "BetterSettings": "github:sargedev/bettersettings#2023.5.1",
+        "arcade-custom-instruments": "github:riknoll/arcade-custom-instruments#6f81814d7d77a1ac7b97e4d631cbbc3654f2ec64"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "setup.ts",
+        "cursor.ts",
+        "towers.ts",
+        "inputs.ts"
+    ],
+    "targetVersions": {
+        "branch": "stable4.1",
+        "tag": "v4.1.25",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/d4885bd35de1a9300183bf5a3fd1eec816992625",
+        "target": "4.1.25",
+        "pxt": "13.1.23"
+    },
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only",
+    "palette": [
+        "#000000",
+        "#FFF1E8",
+        "#FF004D",
+        "#FF77A8",
+        "#FFA300",
+        "#FFEC27",
+        "#008751",
+        "#00E436",
+        "#29ADFF",
+        "#C2C3C7",
+        "#7E2553",
+        "#83769C",
+        "#5F574F",
+        "#FFCCAA",
+        "#AB5236",
+        "#1D2B53"
+    ]
+}
