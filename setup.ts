@@ -6,3 +6,14 @@ namespace userconfig {
 
 browserEvents.setCursorVisible(false)
 game.stats = true
+
+// Global class that every renderable entity will extend
+class Entity {
+    x = 0
+    y = 0
+    image: Image
+
+    constructor(image: Image) {
+        this.image = image
+    }
+}

@@ -19,6 +19,7 @@
         "images.g.jres",
         "images.g.ts",
         "setup.ts",
+        "maps.ts",
         "cursor.ts",
         "towers.ts",
         "inputs.ts"
