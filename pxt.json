@@ -10,7 +10,8 @@
         "ScriptScript Round (font)": "pub:61650-92538-68758-81403",
         "ScriptScript Bold (font)": "pub:80125-99803-81195-44201",
         "BetterSettings": "github:sargedev/bettersettings#2023.5.1",
-        "arcade-custom-instruments": "github:riknoll/arcade-custom-instruments#6f81814d7d77a1ac7b97e4d631cbbc3654f2ec64"
+        "arcade-custom-instruments": "github:riknoll/arcade-custom-instruments#6f81814d7d77a1ac7b97e4d631cbbc3654f2ec64",
+        "Arcade Easing - Copy": "github:ChimbroDaPro/arcade-easing#v1.0.0"
     },
     "files": [
         "main.ts",
