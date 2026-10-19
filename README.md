@@ -1,4 +1,4 @@
-A tower defense game inspired by the Bloons TD series, but this one is themed around critters! This repo just has the code, the actual game can be found [here](https://arcade.makecode.com/S90680-79632-41103-82844).
+A tower defense game inspired by the Bloons TD series, but this one is themed around critters! This repo just has the code, the actual game can be found [here]([https://arcade.makecode.com/S90680-79632-41103-82844](https://arcade.makecode.com/S74547-15769-32510-22941)).
  
 Note: All the .ts files are where the game code is.
 
