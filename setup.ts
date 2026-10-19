@@ -17,3 +17,7 @@ class Entity {
         this.image = image
     }
 }
+
+const renderables: Entity[] = []
+const enemies: Enemy[] = []
+const towers: Tower[] = []

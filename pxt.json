@@ -23,6 +23,7 @@
         "maps.ts",
         "cursor.ts",
         "towers.ts",
+        "enemies.ts",
         "inputs.ts"
     ],
     "targetVersions": {
@@ -51,5 +52,14 @@
         "#FFCCAA",
         "#AB5236",
         "#1D2B53"
-    ]
+    ],
+    "theme": {
+        "layout": "default",
+        "background-color": "#FF9A14",
+        "button-stroke": "#B0701A",
+        "text-color": "#CECECE",
+        "button-fill": "#333333",
+        "dpad-fill": "#B0701A",
+        "joystick-handle-stroke": "#B0701A"
+    }
 }

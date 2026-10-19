@@ -14,6 +14,16 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "cursorSprite"
     },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA8A/w/wAAAAD/D/D+/w8A////8P7v//Dv7v7v7u7+//7u7u/d7f/v7u7u/93tD+/u7u7+3e0P7+7u7v7e7f//7v7u/u7u/vDu7u7+7u7+8O7u7v7u///w7+7u/+8PAAD/7v8P7w8AAPD/DwD/DwAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "towerPlaceholder"
+    },
+    "image4": {
+        "data": "hwQQABwAAAAAAAAA//8AAAAAAAAAAAAAAAAA8E/0//8AAAAAAAAAAAAAAP9ERET/AAAAAAAAAAAAAABPRPT/DwAAAAAAAAAAAAAAT0T0AAAAAAAAAAAAAAAAAE9E9AAAAAAAAAAAAAAAAPBPRET/AAAAAAAAAAAAAADwRERE9P8AAAAAAAAAAAAA8ERE9ET0AAAAAAAAAAAAAPBERP///wAAAAAAAAAAAPD/REQPAAAAAAAAAAAAAADwRE9EDwAAAAAAAAAAAAAA8P/09A8AAAAAAAAAAAAAAADwRPQAAAAAAAAAAAAAAAAA8E//AAAAAAAAAAAAAAAAAAD/DwAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemyPlaceholder"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",

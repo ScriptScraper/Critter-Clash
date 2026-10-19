@@ -14,6 +14,15 @@ class Path {
         }
         this.totalDist = this.cumulativeDist[this.cumulativeDist.length - 1]
     }
+    place(enemy: Enemy, dist: number) {
+        let index = 1
+        while (index < this.cumulativeDist.length - 1 && this.cumulativeDist[index] < dist) {
+            index += 1
+        }
+        const percent = (dist - this.cumulativeDist[index - 1]) / (this.cumulativeDist[index] - this.cumulativeDist[index - 1])
+        enemy.x = this.points[index - 1][0] + (this.points[index][0] - this.points[index - 1][0]) * percent
+        enemy.y = this.points[index - 1][1] + (this.points[index][1] - this.points[index - 1][1]) * percent
+    }
 }
 
 class Map {
